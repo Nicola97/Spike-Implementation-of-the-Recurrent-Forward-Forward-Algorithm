@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite our work!"
+authors:
+  - family-names: "Quattrone"
+    given-names: "Nicola"
+title: "Spike Implementation of the Recurrent Forward-Forward Algorithm"
+version: "1.0.0"
+date-released: "2025-02-10"
+url: "https://github.com/Nicola97/Spike-Implementation-of-the-Recurrent-Forward-Forward-Algorithm"
