@@ -1,4 +1,4 @@
-# Spike Implementation of the Recurrent Forward-Forward Algorithm
+# Spiking Implementation of the Recurrent Forward-Forward Algorithm
 
 In this repository, you will find:  
 
