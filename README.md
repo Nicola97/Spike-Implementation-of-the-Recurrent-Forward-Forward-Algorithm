@@ -16,17 +16,24 @@ This is a work in progress, so some parts of the code are not yet optimized. I'm
 
 ## Theory Behind the Repository
 
+### Forward - Forward Algorithm
 ![Nome immagine](https://github.com/Nicola97/Spike-Implementation-of-the-Recurrent-Forward-Forward-Algorithm/blob/main/readme_images/ff_algorithm.png)
 
+### FF Algorithm - Loss Function
 ![Nome immagine](https://github.com/Nicola97/Spike-Implementation-of-the-Recurrent-Forward-Forward-Algorithm/blob/main/readme_images/loss_function.png)
 
+### FF Algorithm - Goodnes Function
 ![Nome immagine](https://github.com/Nicola97/Spike-Implementation-of-the-Recurrent-Forward-Forward-Algorithm/blob/main/readme_images/goodnes_function.png)
 
+### FF Algorithm - Recurrent Architecture
 ![Nome immagine](https://github.com/Nicola97/Spike-Implementation-of-the-Recurrent-Forward-Forward-Algorithm/blob/main/readme_images/recurrent_architecture.png)
 
+### FF Algorithm - Metalayer
 ![Nome immagine](https://github.com/Nicola97/Spike-Implementation-of-the-Recurrent-Forward-Forward-Algorithm/blob/main/readme_images/metalayer.png)
 
+### FF Algorithm - Spike Recurrent Architecture
 ![Nome immagine](https://github.com/Nicola97/Spike-Implementation-of-the-Recurrent-Forward-Forward-Algorithm/blob/main/readme_images/spike_recurrent_architecture.png)
 
+### FF Algorithm - Spike Metalayer
 ![Nome immagine](https://github.com/Nicola97/Spike-Implementation-of-the-Recurrent-Forward-Forward-Algorithm/blob/main/readme_images/spike_metalayer.png)
 
