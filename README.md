@@ -1,4 +1,4 @@
-# Spiking Implementation of the Recurrent Forward-Forward Algorithm
+![Nome immagine](https://github.com/Nicola97/Spike-Implementation-of-the-Recurrent-Forward-Forward-Algorithm/blob/main/readme_images/title.png)
 
 In this repository, you will find:  
 
