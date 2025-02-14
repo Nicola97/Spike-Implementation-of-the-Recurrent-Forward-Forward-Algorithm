@@ -1,0 +1,2 @@
+trial_number,train_batch_size,test_batch_size,learning_rate,activation_function,epochs,threshold,test_time,training_time,train_set_size,test_set_size,size_input,size_metalayer_uno,size_metalayer_due,size_metalayer_tre
+42,1024,2000,0.001,torch.nn.ReLU(),100,80,3,3,40000,10000,784,500,250,50

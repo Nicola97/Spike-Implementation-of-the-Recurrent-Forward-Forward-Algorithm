@@ -173,4 +173,7 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+standard_ff/data
+recurrent_ff/data
+spike_recurrent_ff/data
 # End of https://www.toptal.com/developers/gitignore/api/python
